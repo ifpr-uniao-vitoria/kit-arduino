@@ -9,6 +9,11 @@ Professor: Deividson Luiz Okopnik
 | Categoria | Componente | Exemplo | Nível |
 | :--- | :--- | :--- | :--- |
 | **Básicos** | Variáveis | Declaração e Uso | Básico |
+| **Básicos** | Comunicação Serial | Envio Básico | Básico |
+| **Básicos** | Estruturas de Controle | If/Else | Básico |
+| **Básicos** | Estruturas de Repetição | For e While | Básico |
+| **Básicos** | Funções | Declaração e Uso | Básico |
+| **Básicos** | Vetores (Arrays) | Declaração e Uso | Básico |
 | **Atuadores** | Servo Motor | Controle Básico (Loop) | Básico |
 | **Atuadores** | Servo Motor | Controle Básico (Posições Fixas) | Básico |
 | **Atuadores** | Buzzer | Tons Musicais | Básico |

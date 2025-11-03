@@ -15,6 +15,10 @@
  * - Nenhuma. Apenas conecte o Arduino ao computador e abra o Monitor Serial.
  *
  * Observações:
+ * Variáveis são espaços na memória do Arduino usados para armazenar dados
+ * que podem mudar durante a execução do programa. Elas são essenciais para
+ * guardar leituras de sensores, estados de botões, valores de contagem,
+ * e qualquer informação que o programa precise manipular.
  * Este é um exemplo fundamental para entender como armazenar e manipular dados.
  */
 
